@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosBandit/Bandit Level 9 → Level 10.md",
+                "file": "retosBandit/Bandit Level 16 → Level 17.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosBandit/Bandit Level 9 → Level 10.md",
+                "file": "retosBandit/Bandit Level 16 → Level 17.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosBandit/Bandit Level 9 → Level 10.md",
+                "file": "retosBandit/Bandit Level 16 → Level 17.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosBandit/Bandit Level 9 → Level 10.md"
+                "file": "retosBandit/Bandit Level 16 → Level 17.md"
               }
             }
           }
@@ -164,15 +164,22 @@
   },
   "active": "a3e770daa8180951",
   "lastOpenFiles": [
+    "retosBandit/Bandit Level 17 → Level 18.md",
+    "retosBandit/Bandit Level 18 → Level 19.md",
+    "retosBandit/Bandit Level 19 → Level 20.md",
+    "retosBandit/Bandit Level 20 → Level 21.md",
+    "retosBandit/Bandit Level 21 → Level 22.md",
+    "retosBandit/plantilla.md",
+    "retosBandit/Sin título",
+    "retosBandit/Sin título.md",
+    "retosBandit/Bandit Level 16 → Level 17.md",
+    "retosBandit/Bandit Level 15 → Level 16.md",
+    "retosBandit/Bandit Level 9 → Level 10.md",
     "retosBandit/Bandit Level 10 → Level 11.md",
     "retosBandit/Bandit Level 11 → Level 12.md",
     "retosBandit/Bandit Level 12 → Level 13.md",
     "retosBandit/Bandit Level 13 → Level 14.md",
     "retosBandit/Bandit Level 14 → Level 15.md",
-    "retosBandit/Bandit Level 15 → Level 16.md",
-    "retosBandit/plantilla.md",
-    "retosBandit/Sin título.md",
-    "retosBandit/Bandit Level 9 → Level 10.md",
     "retosbandit/Bandit Level 8 → Level 9.md",
     "retosbandit/Bandit Level 9 → Level 10.md",
     "retosbandit/plantilla.md",
@@ -184,12 +191,8 @@
     "retosbandit/Bandit Level 2 → Level 3.md",
     "retosbandit/Bandit Level 1 → Level 2.md",
     "retosbandit/Bandit Level 0 → Level 1.md",
-    "retosbandit/Bandit Level 0.md",
-    "README.md",
     "retosbandit",
     "Sin título.canvas",
-    "2024-02-08.md",
-    "01-02-24.md",
     "Seguridad"
   ]
 }
