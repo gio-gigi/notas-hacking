@@ -6,15 +6,15 @@
       {
         "id": "86daa80a66c59fb6",
         "type": "tabs",
-        "dimension": 73.76160990712074,
+        "dimension": 84.52012383900929,
         "children": [
           {
-            "id": "a3e770daa8180951",
+            "id": "d2891f23e6e2efd7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosBandit/Bandit Level 16 → Level 17.md",
+                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
       {
         "id": "f5c3da2a9126485f",
         "type": "tabs",
-        "dimension": 26.238390092879254,
+        "dimension": 15.479876160990713,
         "children": [
           {
             "id": "a857450f76d6581d",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosBandit/Bandit Level 16 → Level 17.md",
+                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosBandit/Bandit Level 16 → Level 17.md",
+                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosBandit/Bandit Level 16 → Level 17.md"
+                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md"
               }
             }
           }
@@ -154,43 +154,49 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Crear nuevo lienzo": false,
       "switcher:Abrir selector rápido": false,
       "graph:Abrir vista gráfica": false,
-      "canvas:Crear nuevo canvas": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a3e770daa8180951",
+  "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
-    "retosBandit/Bandit Level 17 → Level 18.md",
-    "retosBandit/Bandit Level 18 → Level 19.md",
-    "retosBandit/Bandit Level 19 → Level 20.md",
-    "retosBandit/Bandit Level 20 → Level 21.md",
-    "retosBandit/Bandit Level 21 → Level 22.md",
+    "retosBandit/Bandit Level 31 → Level 32.md",
     "retosBandit/plantilla.md",
-    "retosBandit/Sin título",
+    "retosBandit/Bandit Nivel 32 → Nivel 33.md",
+    "retosBandit/Bandit Level 30 → Level 31.md",
+    "retosBandit/Bandit Level 29 → Level 30.md",
+    "retosBandit/Bandit Level 28 → Level 29.md",
+    "retosBandit/Bandit Level 27 → Level 28.md",
+    "retosBandit/Bandit Level 26 → Level 27.md",
+    "retosBandit/Bandit Level 25 → Level 26.md",
+    "retosBandit/Bandit Level 24 → Level 25.md",
+    "retosBandit/Bandit Level 23 → Level 24.md",
     "retosBandit/Sin título.md",
+    "picoCTF/primer-parcial/05-Tab, Tab, Attack.md",
+    "picoCTF/primer-parcial/04-Static ain't always noise.md",
+    "picoCTF/primer-parcial/02-Wave a flag.md",
+    "picoCTF/primer-parcial/03-Nice netcat....md",
+    "picoCTF/primer-parcial/plantilla.md",
+    "picoCTF/primer-parcial/06-Magikarp Ground Mission.md",
+    "picoCTF/primer-parcial/08-Warmed Up.md",
+    "Pasted image 20240227125320.png",
+    "picoCTF/primer-parcial/07-Lets Warm Up.md",
+    "Pasted image 20240227125054.png",
+    "Pasted image 20240227125049.png",
+    "Pasted image 20240227124445.png",
+    "picoCTF/primer-parcial/what s a net cat.md",
+    "picoCTF/primer-parcial/01-Obedient Cat.md",
+    "picoCTF/Sin título.md",
+    "picoCTF/primer-parcial",
+    "picoCTF",
     "retosBandit/Bandit Level 16 → Level 17.md",
-    "retosBandit/Bandit Level 15 → Level 16.md",
-    "retosBandit/Bandit Level 9 → Level 10.md",
-    "retosBandit/Bandit Level 10 → Level 11.md",
-    "retosBandit/Bandit Level 11 → Level 12.md",
-    "retosBandit/Bandit Level 12 → Level 13.md",
-    "retosBandit/Bandit Level 13 → Level 14.md",
-    "retosBandit/Bandit Level 14 → Level 15.md",
-    "retosbandit/Bandit Level 8 → Level 9.md",
-    "retosbandit/Bandit Level 9 → Level 10.md",
-    "retosbandit/plantilla.md",
-    "retosbandit/Bandit Level 7 → Level 8.md",
-    "retosbandit/Bandit Level 6 → Level 7.md",
-    "retosbandit/Bandit Level 5 → Level 6.md",
-    "retosbandit/Bandit Level 4 → Level 5.md",
-    "retosbandit/Bandit Level 3 → Level 4.md",
-    "retosbandit/Bandit Level 2 → Level 3.md",
-    "retosbandit/Bandit Level 1 → Level 2.md",
-    "retosbandit/Bandit Level 0 → Level 1.md",
+    "retosBandit/Bandit Level 22 → Level 23.md",
+    "retosBandit/Bandit Level 21 → Level 22.md",
+    "retosBandit/Sin título",
     "retosbandit",
     "Sin título.canvas",
     "Seguridad"
