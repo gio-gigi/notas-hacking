@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
+                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
+                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md",
+                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retosBandit/Bandit Nivel 32 → Nivel 33.md"
+                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md"
               }
             }
           }
@@ -164,38 +164,44 @@
   },
   "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
-    "retosBandit/Bandit Level 31 → Level 32.md",
-    "retosBandit/plantilla.md",
-    "retosBandit/Bandit Nivel 32 → Nivel 33.md",
-    "retosBandit/Bandit Level 30 → Level 31.md",
-    "retosBandit/Bandit Level 29 → Level 30.md",
-    "retosBandit/Bandit Level 28 → Level 29.md",
-    "retosBandit/Bandit Level 27 → Level 28.md",
-    "retosBandit/Bandit Level 26 → Level 27.md",
-    "retosBandit/Bandit Level 25 → Level 26.md",
-    "retosBandit/Bandit Level 24 → Level 25.md",
-    "retosBandit/Bandit Level 23 → Level 24.md",
-    "retosBandit/Sin título.md",
-    "picoCTF/primer-parcial/05-Tab, Tab, Attack.md",
-    "picoCTF/primer-parcial/04-Static ain't always noise.md",
-    "picoCTF/primer-parcial/02-Wave a flag.md",
-    "picoCTF/primer-parcial/03-Nice netcat....md",
+    "picoCTF/primer-parcial/Parte 03/07-Based.md",
+    "picoCTF/primer-parcial/Parte 03/06-runme.py.md",
+    "picoCTF/primer-parcial/Parte 03/05-PW Crack 3.md",
+    "picoCTF/primer-parcial/Parte 03/04-PW Crack 2.md",
+    "picoCTF/primer-parcial/Parte 03/03-PW Crack 1.md",
+    "picoCTF/primer-parcial/Parte 03/02-Glitch Cat.md",
+    "picoCTF/primer-parcial/Parte 03/01-fixme2.py.md",
+    "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
     "picoCTF/primer-parcial/plantilla.md",
-    "picoCTF/primer-parcial/06-Magikarp Ground Mission.md",
-    "picoCTF/primer-parcial/08-Warmed Up.md",
+    "picoCTF/primer-parcial/Parte 02/07-strings it.md",
+    "picoCTF/primer-parcial/Parte 03",
+    "picoCTF/primer-parcial/Parte 02/Sin título.md",
+    "picoCTF/primer-parcial/Parte 02/06-fixme1.py.md",
+    "picoCTF/primer-parcial/Parte 02/05-First Grep.md",
+    "picoCTF/primer-parcial/Parte 01/05-Tab, Tab, Attack.md",
+    "picoCTF/primer-parcial/Parte 01/06-Magikarp Ground Mission.md",
+    "picoCTF/primer-parcial/Parte 01/07-Lets Warm Up.md",
+    "picoCTF/primer-parcial/Parte 01/08-Warmed Up.md",
+    "picoCTF/primer-parcial/Parte 02/04-convertme.py.md",
+    "picoCTF/primer-parcial/Parte 02/03-Codebook.md",
+    "picoCTF/primer-parcial/Parte 02/01- 2Warm.md",
+    "picoCTF/retos-web/Insp3ct0r.md",
+    "picoCTF/primer-parcial/Parte 02/02-Bases.md",
+    "picoCTF/primer-parcial/Parte 02/08-what s a net cat.md",
+    "picoCTF/primer-parcial/Parte 02",
+    "picoCTF/primer-parcial/Parte 01/04-Static ain't always noise.md",
+    "picoCTF/primer-parcial/Parte 01/03-Nice netcat....md",
+    "picoCTF/primer-parcial/Parte 01/02-Wave a flag.md",
+    "picoCTF/primer-parcial/Parte 01",
+    "Pasted image 20240229125402.png",
+    "picoCTF/retos-web",
+    "Retos Web",
     "Pasted image 20240227125320.png",
-    "picoCTF/primer-parcial/07-Lets Warm Up.md",
     "Pasted image 20240227125054.png",
     "Pasted image 20240227125049.png",
     "Pasted image 20240227124445.png",
-    "picoCTF/primer-parcial/what s a net cat.md",
-    "picoCTF/primer-parcial/01-Obedient Cat.md",
-    "picoCTF/Sin título.md",
     "picoCTF/primer-parcial",
     "picoCTF",
-    "retosBandit/Bandit Level 16 → Level 17.md",
-    "retosBandit/Bandit Level 22 → Level 23.md",
-    "retosBandit/Bandit Level 21 → Level 22.md",
     "retosBandit/Sin título",
     "retosbandit",
     "Sin título.canvas",
