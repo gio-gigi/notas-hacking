@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
+                "file": "picoCTF/retos-web/Client-side-again.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
+                "file": "picoCTF/retos-web/Client-side-again.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
+                "file": "picoCTF/retos-web/Client-side-again.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/primer-parcial/Parte 03/08-plumbing.md"
+                "file": "picoCTF/retos-web/Client-side-again.md"
               }
             }
           }
@@ -164,6 +164,7 @@
   },
   "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
+    "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
     "picoCTF/primer-parcial/Parte 03/07-Based.md",
     "picoCTF/primer-parcial/Parte 03/06-runme.py.md",
     "picoCTF/primer-parcial/Parte 03/05-PW Crack 3.md",
@@ -171,7 +172,6 @@
     "picoCTF/primer-parcial/Parte 03/03-PW Crack 1.md",
     "picoCTF/primer-parcial/Parte 03/02-Glitch Cat.md",
     "picoCTF/primer-parcial/Parte 03/01-fixme2.py.md",
-    "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
     "picoCTF/primer-parcial/plantilla.md",
     "picoCTF/primer-parcial/Parte 02/07-strings it.md",
     "picoCTF/primer-parcial/Parte 03",
