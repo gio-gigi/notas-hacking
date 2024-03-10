@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md",
+                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md",
+                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md",
+                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md"
+                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md"
               }
             }
           }
@@ -164,12 +164,16 @@
   },
   "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
-    "picoCTF/retos-web/Part 02/Irish-Name-Repo 3.md",
+    "picoCTF/primer-parcial/plantilla.md",
+    "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
+    "picoCTF/retos-web/Part 03/GET aHEAD.md",
+    "picoCTF/retos-web/Part 03/Cookies.md",
     "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md",
+    "picoCTF/retos-web/Part 03",
+    "picoCTF/retos-web/Part 02/Irish-Name-Repo 3.md",
     "picoCTF/retos-web/Part 02/Irish-Name-Repo 1.md",
     "picoCTF/retos-web/Part 02/JaWT Scratchpad.md",
     "Pasted image 20240305131233.png",
-    "picoCTF/primer-parcial/plantilla.md",
     "picoCTF/retos-web/Part 01/picobrowser.md",
     "picoCTF/retos-web/Part 02",
     "picoCTF/retos-web/Part 01/logon.md",
@@ -191,8 +195,6 @@
     "picoCTF/primer-parcial/Parte 02/Sin título.md",
     "picoCTF/primer-parcial/Parte 02/06-fixme1.py.md",
     "picoCTF/primer-parcial/Parte 02/05-First Grep.md",
-    "picoCTF/primer-parcial/Parte 01/05-Tab, Tab, Attack.md",
-    "picoCTF/primer-parcial/Parte 01/06-Magikarp Ground Mission.md",
     "picoCTF/primer-parcial/Parte 02",
     "picoCTF/primer-parcial/Parte 01",
     "Pasted image 20240229125402.png",
@@ -204,7 +206,6 @@
     "Pasted image 20240227124445.png",
     "picoCTF/primer-parcial",
     "picoCTF",
-    "retosBandit/Sin título",
     "Sin título.canvas"
   ]
 }
