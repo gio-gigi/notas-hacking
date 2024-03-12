@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
+                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
+                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
+                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos-web/Part 03/Scavenger Hunt.md"
+                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md"
               }
             }
           }
@@ -164,8 +164,18 @@
   },
   "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
+    "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
+    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+    "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
+    "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
+    "Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
+    "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+    "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9 1.jpg",
+    "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
     "picoCTF/primer-parcial/plantilla.md",
     "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
+    "picoCTF/Retos Forensic/Part 01",
+    "picoCTF/Retos Forensic",
     "picoCTF/retos-web/Part 03/GET aHEAD.md",
     "picoCTF/retos-web/Part 03/Cookies.md",
     "picoCTF/retos-web/Part 02/Irish-Name-Repo 2.md",
@@ -188,13 +198,7 @@
     "picoCTF/primer-parcial/Parte 03/05-PW Crack 3.md",
     "picoCTF/primer-parcial/Parte 03/04-PW Crack 2.md",
     "picoCTF/primer-parcial/Parte 03/03-PW Crack 1.md",
-    "picoCTF/primer-parcial/Parte 03/02-Glitch Cat.md",
-    "picoCTF/primer-parcial/Parte 03/01-fixme2.py.md",
-    "picoCTF/primer-parcial/Parte 02/07-strings it.md",
     "picoCTF/primer-parcial/Parte 03",
-    "picoCTF/primer-parcial/Parte 02/Sin título.md",
-    "picoCTF/primer-parcial/Parte 02/06-fixme1.py.md",
-    "picoCTF/primer-parcial/Parte 02/05-First Grep.md",
     "picoCTF/primer-parcial/Parte 02",
     "picoCTF/primer-parcial/Parte 01",
     "Pasted image 20240229125402.png",
@@ -204,8 +208,6 @@
     "Pasted image 20240227125054.png",
     "Pasted image 20240227125049.png",
     "Pasted image 20240227124445.png",
-    "picoCTF/primer-parcial",
-    "picoCTF",
     "Sin título.canvas"
   ]
 }
