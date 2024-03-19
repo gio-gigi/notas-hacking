@@ -23,6 +23,7 @@ flag2of2-final.pdf  100%[================>]   3.28K  --.-KB/s    in 0s
 open flag2of2-final.pdf
 ```
 Adentro de este pdf encontraremos una parte de CTF *1n_pn9_&_pdf_90974127}*
+
 3.  Cambiamos la extensión del pdf a png:
 ```
  mv flag2of2-final.pdf flag2of2-final.png
