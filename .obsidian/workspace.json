@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+                "file": "picoCTF/picoCTF-2024/Verify.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Solución",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 313.5
   },
   "right": {
     "id": "8e0642e4138f6dae",
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+                "file": "picoCTF/picoCTF-2024/Verify.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+                "file": "picoCTF/picoCTF-2024/Verify.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/04-extensions.md"
+                "file": "picoCTF/picoCTF-2024/Verify.md"
               }
             }
           }
@@ -164,15 +164,33 @@
   },
   "active": "d2891f23e6e2efd7",
   "lastOpenFiles": [
-    "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
-    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+    "picoCTF/picoCTF-2024/Scan Surprise.md",
+    "picoCTF/picoCTF-2024/Verify.md",
+    "picoCTF/picoCTF-2024/Secret of the Polyglot.md",
+    "picoCTF/picoCTF-2024/Mob psycho.md",
+    "picoCTF/primer-parcial/plantilla.md",
     "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
+    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
     "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
-    "Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
     "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+    "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
+    "picoCTF/picoCTF-2024/Interencdec.md",
+    "picoCTF/picoCTF-2024/Commitment Issues.md",
+    "picoCTF/picoCTF-2024/Bookmarklet.md",
+    "picoCTF/picoCTF-2024/Time Machine.md",
+    "picoCTF/picoCTF-2024/Super SSH.md",
+    "Sin título 1.canvas",
+    "Sin título.canvas",
+    "Imagen de WhatsApp 2024-03-15 a las 16.46.17_ed3eaef9.jpg",
+    "picoCTF/picoCTF-2024",
+    "picoCTF/retos-web/Part 01/picobrowser.md",
+    "picoCTF/retos-web/Part 01/logon.md",
+    "picoCTF/retos-web/Part 01/Insp3ct0r.md",
+    "picoCTF/retos-web/Part 01/dont-use-client-side.md",
+    "picoCTF/retos-web/Part 01/Client-side-again.md",
+    "Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
     "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9 1.jpg",
     "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
-    "picoCTF/primer-parcial/plantilla.md",
     "picoCTF/retos-web/Part 03/Scavenger Hunt.md",
     "picoCTF/Retos Forensic/Part 01",
     "picoCTF/Retos Forensic",
@@ -182,32 +200,17 @@
     "picoCTF/retos-web/Part 03",
     "picoCTF/retos-web/Part 02/Irish-Name-Repo 3.md",
     "picoCTF/retos-web/Part 02/Irish-Name-Repo 1.md",
-    "picoCTF/retos-web/Part 02/JaWT Scratchpad.md",
     "Pasted image 20240305131233.png",
-    "picoCTF/retos-web/Part 01/picobrowser.md",
     "picoCTF/retos-web/Part 02",
-    "picoCTF/retos-web/Part 01/logon.md",
-    "picoCTF/retos-web/Part 01/Insp3ct0r.md",
-    "picoCTF/retos-web/Part 01/dont-use-client-side.md",
-    "picoCTF/retos-web/Part 01/Client-side-again.md",
-    "picoCTF/retos-web/Part 01/where are the robots.md",
     "picoCTF/retos-web/Part 01",
-    "picoCTF/primer-parcial/Parte 03/08-plumbing.md",
-    "picoCTF/primer-parcial/Parte 03/07-Based.md",
-    "picoCTF/primer-parcial/Parte 03/06-runme.py.md",
-    "picoCTF/primer-parcial/Parte 03/05-PW Crack 3.md",
-    "picoCTF/primer-parcial/Parte 03/04-PW Crack 2.md",
-    "picoCTF/primer-parcial/Parte 03/03-PW Crack 1.md",
     "picoCTF/primer-parcial/Parte 03",
     "picoCTF/primer-parcial/Parte 02",
     "picoCTF/primer-parcial/Parte 01",
     "Pasted image 20240229125402.png",
     "picoCTF/retos-web",
-    "Retos Web",
     "Pasted image 20240227125320.png",
     "Pasted image 20240227125054.png",
     "Pasted image 20240227125049.png",
-    "Pasted image 20240227124445.png",
-    "Sin título.canvas"
+    "Pasted image 20240227124445.png"
   ]
 }
