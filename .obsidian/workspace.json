@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md",
+                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md",
+                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md",
+                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md"
+                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md"
               }
             }
           }
@@ -177,12 +177,26 @@
   },
   "active": "30945928ccb59c80",
   "lastOpenFiles": [
-    "picoCTF/Retos Forensic/part 03/05- MacroHard WeakEdge.md",
+    "picoCTF/picoCTF-2024/CanYouSee.md",
+    "picoCTF/picoCTF-2024/endianness.md",
+    "picoCTF/picoCTF-2024/Binary Search.md",
     "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md",
+    "picoCTF/Retos Forensic/part 03/05- MacroHard WeakEdge.md",
     "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
     "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
     "picoCTF/Retos Forensic/part 03/01- WebNet0.md",
-    "picoCTF/primer-parcial/plantilla.md",
+    "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
+    "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+    "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
+    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+    "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
+    "picoCTF/Retos Forensic/part 02/03- c0rrupt.md",
+    "parciales/segundo-parcial/part 02",
+    "parciales/segundo-parcial/Sin título.md",
+    "parciales/segundo-parcial/part 01",
+    "parciales/segundo-parcial",
+    "parciales",
+    "parciales/primer-parcial/plantilla.md",
     "picoCTF/picoCTF-2024/Bookmarklet.md",
     "picoCTF/Retos Forensic/part 03",
     "picoCTF/Retos Forensic/Sin título.md",
@@ -194,19 +208,9 @@
     "picoCTF/picoCTF-2024/Time Machine.md",
     "picoCTF/picoCTF-2024/Verify.md",
     "picoCTF/picoCTF-2024/Unminify.md",
-    "picoCTF/picoCTF-2024/Blame Game.md",
-    "picoCTF/picoCTF-2024/WebDecode.md",
-    "picoCTF/picoCTF-2024/README.md",
-    "picoCTF/picoCTF-2024/Super SSH.md",
     "picoCTF/picoCTF-2024",
-    "picoCTF/Retos Forensic/part 02/05- shark on wire 2.md",
-    "picoCTF/Retos Forensic/part 02/03- c0rrupt.md",
-    "picoCTF/Retos Forensic/part 02/04- like1000.md",
-    "picoCTF/Retos Forensic/part 02/02-WhitePages.md",
-    "picoCTF/Retos Forensic/part 02/01- m00nwalk.md",
     "picoCTF/Retos Forensic/part 02",
     "Sin título 2.canvas",
-    "2024-03-19.md",
     "Sin título 1.canvas",
     "Sin título.canvas",
     "Imagen de WhatsApp 2024-03-15 a las 16.46.17_ed3eaef9.jpg",
@@ -216,11 +220,7 @@
     "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
     "picoCTF/Retos Forensic/Part 01",
     "picoCTF/Retos Forensic",
-    "picoCTF/retos-web/Part 03",
     "Pasted image 20240305131233.png",
-    "picoCTF/retos-web/Part 02",
-    "picoCTF/retos-web/Part 01",
-    "picoCTF/primer-parcial/Parte 03",
     "Pasted image 20240229125402.png",
     "Pasted image 20240227125320.png",
     "Pasted image 20240227125054.png",
