@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
+                "file": "parciales/segundo-parcial/part 02/07-St3g0.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
+                "file": "parciales/segundo-parcial/part 02/07-St3g0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
+                "file": "parciales/segundo-parcial/part 02/07-St3g0.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md"
+                "file": "parciales/segundo-parcial/part 02/07-St3g0.md"
               }
             }
           }
@@ -177,6 +177,24 @@
   },
   "active": "30945928ccb59c80",
   "lastOpenFiles": [
+    "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
+    "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
+    "picoCTF/Retos Forensic/part 03/01- WebNet0.md",
+    "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
+    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+    "picoCTF/Retos Forensic/Part 01/04-extensions.md",
+    "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
+    "picoCTF/Retos Forensic/part 02/01- m00nwalk.md",
+    "picoCTF/Retos Forensic/part 02/04- like1000.md",
+    "picoCTF/Retos Forensic/part 02/03- c0rrupt.md",
+    "parciales/segundo-parcial/part 02/07-St3g0.md",
+    "parciales/segundo-parcial/part 02/06-Redaction gone wrong.md",
+    "parciales/segundo-parcial/part 02/05-Packets Primer.md",
+    "parciales/segundo-parcial/part 02/04-Lookey here.md",
+    "parciales/segundo-parcial/part 02/03-Enhance!.md",
+    "parciales/segundo-parcial/part 02/02-Wireshark doo dooo do doo....md",
+    "parciales/segundo-parcial/part 02/01-information.md",
+    "parciales/segundo-parcial/part 01/09-SQL Direct.md",
     "parciales/segundo-parcial/part 01/08-Secrets.md",
     "parciales/segundo-parcial/part 01/07-Roboto Sans.md",
     "parciales/segundo-parcial/part 01/06-Power Cookie.md",
@@ -185,25 +203,7 @@
     "parciales/segundo-parcial/part 01/03-Local Authority.md",
     "parciales/segundo-parcial/part 01/02-Inspect HTML.md",
     "parciales/segundo-parcial/part 01/01- Includes.md",
-    "parciales/segundo-parcial/part 01/09-SQL Direct.md",
-    "parciales/primer-parcial/plantilla.md",
-    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
-    "picoCTF/picoCTF-2024/Collaborative Development.md",
-    "picoCTF/picoCTF-2024/CanYouSee.md",
-    "picoCTF/picoCTF-2024/endianness.md",
-    "picoCTF/picoCTF-2024/Binary Search.md",
-    "picoCTF/Retos Forensic/part 03/04- tunn3l_v1s10n.md",
-    "picoCTF/Retos Forensic/part 03/05- MacroHard WeakEdge.md",
-    "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
-    "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
-    "picoCTF/Retos Forensic/part 03/01- WebNet0.md",
-    "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
-    "picoCTF/Retos Forensic/Part 01/04-extensions.md",
-    "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
-    "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
-    "picoCTF/Retos Forensic/part 02/03- c0rrupt.md",
     "parciales/segundo-parcial/part 02",
-    "parciales/segundo-parcial/Sin título.md",
     "parciales/segundo-parcial/part 01",
     "parciales/segundo-parcial",
     "parciales",
