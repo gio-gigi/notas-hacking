@@ -175,8 +175,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "30945928ccb59c80",
+  "active": "7e453be8d3b18253",
   "lastOpenFiles": [
+    "img",
     "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
     "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
     "picoCTF/Retos Forensic/part 03/01- WebNet0.md",
@@ -202,7 +203,6 @@
     "parciales/segundo-parcial/part 01/04-Search source.md",
     "parciales/segundo-parcial/part 01/03-Local Authority.md",
     "parciales/segundo-parcial/part 01/02-Inspect HTML.md",
-    "parciales/segundo-parcial/part 01/01- Includes.md",
     "parciales/segundo-parcial/part 02",
     "parciales/segundo-parcial/part 01",
     "parciales/segundo-parcial",
@@ -211,20 +211,20 @@
     "picoCTF/picoCTF-2024",
     "picoCTF/Retos Forensic/part 02",
     "Sin título 2.canvas",
-    "Sin título 1.canvas",
-    "Sin título.canvas",
-    "Imagen de WhatsApp 2024-03-15 a las 16.46.17_ed3eaef9.jpg",
+    "img/Sin título 1.canvas",
+    "img/Sin título.canvas",
+    "img/Imagen de WhatsApp 2024-03-15 a las 16.46.17_ed3eaef9.jpg",
     "picoCTF/picoCTF-2024",
-    "Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
-    "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9 1.jpg",
-    "Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
+    "img/Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
+    "img/Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9 1.jpg",
+    "img/Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
     "picoCTF/Retos Forensic/Part 01",
     "picoCTF/Retos Forensic",
-    "Pasted image 20240305131233.png",
-    "Pasted image 20240229125402.png",
-    "Pasted image 20240227125320.png",
-    "Pasted image 20240227125054.png",
-    "Pasted image 20240227125049.png",
-    "Pasted image 20240227124445.png"
+    "img/Pasted image 20240305131233.png",
+    "img/Pasted image 20240229125402.png",
+    "img/Pasted image 20240227125320.png",
+    "img/Pasted image 20240227125054.png",
+    "img/Pasted image 20240227125049.png",
+    "img/Pasted image 20240227124445.png"
   ]
 }
