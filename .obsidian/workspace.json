@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
+                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/Retos Forensic/Part 01/02- So Meta.md"
+                "file": "parciales/segundo-parcial/part 01/09-SQL Direct.md"
               }
             }
           }
@@ -177,6 +177,17 @@
   },
   "active": "30945928ccb59c80",
   "lastOpenFiles": [
+    "parciales/segundo-parcial/part 01/08-Secrets.md",
+    "parciales/segundo-parcial/part 01/07-Roboto Sans.md",
+    "parciales/segundo-parcial/part 01/06-Power Cookie.md",
+    "parciales/segundo-parcial/part 01/05-Forbidden Paths.md",
+    "parciales/segundo-parcial/part 01/04-Search source.md",
+    "parciales/segundo-parcial/part 01/03-Local Authority.md",
+    "parciales/segundo-parcial/part 01/02-Inspect HTML.md",
+    "parciales/segundo-parcial/part 01/01- Includes.md",
+    "parciales/segundo-parcial/part 01/09-SQL Direct.md",
+    "parciales/primer-parcial/plantilla.md",
+    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
     "picoCTF/picoCTF-2024/Collaborative Development.md",
     "picoCTF/picoCTF-2024/CanYouSee.md",
     "picoCTF/picoCTF-2024/endianness.md",
@@ -189,7 +200,6 @@
     "picoCTF/Retos Forensic/Part 01/05- What Lies Within.md",
     "picoCTF/Retos Forensic/Part 01/04-extensions.md",
     "picoCTF/Retos Forensic/Part 01/03-shark on wire 1.md",
-    "picoCTF/Retos Forensic/Part 01/02- So Meta.md",
     "picoCTF/Retos Forensic/Part 01/01- Glory of the Garden.md",
     "picoCTF/Retos Forensic/part 02/03- c0rrupt.md",
     "parciales/segundo-parcial/part 02",
@@ -197,17 +207,7 @@
     "parciales/segundo-parcial/part 01",
     "parciales/segundo-parcial",
     "parciales",
-    "parciales/primer-parcial/plantilla.md",
-    "picoCTF/picoCTF-2024/Bookmarklet.md",
     "picoCTF/Retos Forensic/part 03",
-    "picoCTF/Retos Forensic/Sin título.md",
-    "picoCTF/picoCTF-2024/Commitment Issues.md",
-    "picoCTF/picoCTF-2024/Interencdec.md",
-    "picoCTF/picoCTF-2024/Mob psycho.md",
-    "picoCTF/picoCTF-2024/Scan Surprise.md",
-    "picoCTF/picoCTF-2024/Secret of the Polyglot.md",
-    "picoCTF/picoCTF-2024/Time Machine.md",
-    "picoCTF/picoCTF-2024/Verify.md",
     "picoCTF/picoCTF-2024",
     "picoCTF/Retos Forensic/part 02",
     "Sin título 2.canvas",
