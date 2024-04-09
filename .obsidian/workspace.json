@@ -31,9 +31,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "a7c90265410d8224",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "f5c3da2a9126485f",
@@ -177,6 +187,14 @@
   },
   "active": "7e453be8d3b18253",
   "lastOpenFiles": [
+    "picoCTF/retos crypto/01 - The numbers.md",
+    "picoCTF/retos crypto/07 - waves over lambda.md",
+    "picoCTF/retos crypto/06 - Tapping.md",
+    "picoCTF/retos crypto/05 - la cifra de.md",
+    "picoCTF/retos crypto/04 - Easy 1.md",
+    "picoCTF/retos crypto/03 - 13.md",
+    "picoCTF/retos crypto/02 - caesar.md",
+    "picoCTF/retos crypto",
     "img",
     "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
     "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
@@ -197,12 +215,6 @@
     "parciales/segundo-parcial/part 02/01-information.md",
     "parciales/segundo-parcial/part 01/09-SQL Direct.md",
     "parciales/segundo-parcial/part 01/08-Secrets.md",
-    "parciales/segundo-parcial/part 01/07-Roboto Sans.md",
-    "parciales/segundo-parcial/part 01/06-Power Cookie.md",
-    "parciales/segundo-parcial/part 01/05-Forbidden Paths.md",
-    "parciales/segundo-parcial/part 01/04-Search source.md",
-    "parciales/segundo-parcial/part 01/03-Local Authority.md",
-    "parciales/segundo-parcial/part 01/02-Inspect HTML.md",
     "parciales/segundo-parcial/part 02",
     "parciales/segundo-parcial/part 01",
     "parciales/segundo-parcial",
@@ -218,8 +230,6 @@
     "img/Imagen de WhatsApp 2024-03-12 a las 12.55.53_d292efc5.jpg",
     "img/Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9 1.jpg",
     "img/Imagen de WhatsApp 2024-03-12 a las 12.39.53_f5cb5dc9.jpg",
-    "picoCTF/Retos Forensic/Part 01",
-    "picoCTF/Retos Forensic",
     "img/Pasted image 20240305131233.png",
     "img/Pasted image 20240229125402.png",
     "img/Pasted image 20240227125320.png",
