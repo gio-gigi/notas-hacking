@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos crypto/02 - basic-mod1.md",
+                "file": "picoCTF/retos crypto/parte 03/02 - basic-mod1.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos crypto/02 - basic-mod1.md",
+                "file": "picoCTF/retos crypto/parte 03/02 - basic-mod1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos crypto/02 - basic-mod1.md",
+                "file": "picoCTF/retos crypto/parte 03/02 - basic-mod1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos crypto/02 - basic-mod1.md"
+                "file": "picoCTF/retos crypto/parte 03/02 - basic-mod1.md"
               }
             }
           }
@@ -162,13 +162,13 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "a7c90265410d8224",
+  "active": "7e453be8d3b18253",
   "lastOpenFiles": [
-    "picoCTF/retos crypto/01 - Mind your Ps and Qs.md",
-    "picoCTF/retos crypto/05 - ReadMyCert.md",
-    "picoCTF/retos crypto/04 - Pixelated.md",
-    "picoCTF/retos crypto/03 - HideToSee.md",
-    "picoCTF/retos crypto/02 - basic-mod1.md",
+    "picoCTF/retos crypto/parte 03/01 - Mind your Ps and Qs.md",
+    "picoCTF/retos crypto/parte 03/05 - ReadMyCert.md",
+    "picoCTF/retos crypto/parte 03/04 - Pixelated.md",
+    "picoCTF/retos crypto/parte 03/03 - HideToSee.md",
+    "picoCTF/retos crypto/parte 03/02 - basic-mod1.md",
     "parciales/primer-parcial/plantilla.md",
     "picoCTF/retos crypto/parte 02/03 - b00tl3gRSA2.md",
     "picoCTF/retos crypto/parte 03",
