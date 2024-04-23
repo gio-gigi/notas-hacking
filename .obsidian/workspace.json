@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/retos reversing/part 01/05 - vault-door-5.md",
+                "file": "picoCTF/retos reversing/part 02/02 - asm2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5,
-    "collapsed": true
+    "width": 313.5
   },
   "right": {
     "id": "8e0642e4138f6dae",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF/retos reversing/part 01/05 - vault-door-5.md",
+                "file": "picoCTF/retos reversing/part 02/02 - asm2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF/retos reversing/part 01/05 - vault-door-5.md",
+                "file": "picoCTF/retos reversing/part 02/02 - asm2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF/retos reversing/part 01/05 - vault-door-5.md"
+                "file": "picoCTF/retos reversing/part 02/02 - asm2.md"
               }
             }
           }
@@ -149,12 +148,18 @@
   },
   "active": "a857450f76d6581d",
   "lastOpenFiles": [
+    "picoCTF/retos reversing/part 02/03 - asm3.md",
+    "picoCTF/retos reversing/part 02/02 - asm2.md",
+    "picoCTF/retos reversing/part 02/01 - asm1.md",
+    "img/plantilla 1.md",
+    "picoCTF/retos reversing/part 01/05 - vault-door-5.md",
+    "picoCTF/retos reversing/part 02",
+    "picoCTF/retos reversing/part 01/Sin título.md",
     "Sin título.canvas",
     "picoCTF/retos reversing/part 01/04 - vault-door-4.md",
     "picoCTF/retos reversing/part 01/03 - vault-door-3.md",
     "picoCTF/retos reversing/part 01/02 - vault-door-1.md",
     "picoCTF/retos reversing/part 01/01 - vault-door-training.md",
-    "picoCTF/retos reversing/part 01/05 - vault-door-5.md",
     "picoCTF/retos reversing/part 01/05.md",
     "picoCTF/retos reversing/part 01",
     "picoCTF/retos crypto/parte 03/02 - basic-mod1.md",
@@ -163,7 +168,6 @@
     "picoCTF/retos crypto/parte 03/05 - ReadMyCert.md",
     "picoCTF/retos crypto/parte 03/04 - Pixelated.md",
     "picoCTF/retos crypto/parte 03/03 - HideToSee.md",
-    "parciales/primer-parcial/plantilla.md",
     "picoCTF/retos crypto/parte 02/03 - b00tl3gRSA2.md",
     "picoCTF/retos crypto/parte 03",
     "picoCTF/retos crypto/parte 02/01 - rsa pop quiz.md",
@@ -177,14 +181,10 @@
     "picoCTF/retos crypto/parte 01/05 - la cifra de.md",
     "picoCTF/retos crypto/parte 01/04 - Easy 1.md",
     "picoCTF/retos crypto/parte 01/03 - 13.md",
-    "picoCTF/retos crypto/parte 01/02 - caesar.md",
     "picoCTF/retos crypto",
     "img",
-    "picoCTF/Retos Forensic/part 03/03- Matryoshka doll.md",
-    "picoCTF/Retos Forensic/part 03/02- Webnet1.md",
     "parciales/segundo-parcial/part 02",
     "parciales/segundo-parcial/part 01",
-    "parciales/segundo-parcial",
     "Sin título 2.canvas",
     "img/Sin título 1.canvas",
     "img/Sin título.canvas",
